@@ -178,7 +178,7 @@ print = (s) ->
 #   console.log 'middle'
 #   yield 2
 #   console.log 'after'
-#   3
+#   yield 3
 
 # s = seq ->
 #   console.log 'long running process'
